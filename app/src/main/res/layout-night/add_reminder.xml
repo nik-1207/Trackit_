@@ -153,8 +153,8 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="20dp"
                     android:layout_marginTop="10dp"
-                    android:hint="hh:mm"
                     android:background="#FFF"
+                    android:hint="hh:mm"
                     android:textColorHint="#5C5959"
                     android:textSize="18sp" />
             </LinearLayout>
@@ -181,6 +181,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp"
                     android:textColor="#fff"
+                    android:checked="true"
                     android:text="Weekly" />
 
                 <RadioButton
